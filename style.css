@@ -12,9 +12,10 @@ body{
    
 }
 .sidebar{
-  background-color: pink;
+  background-color: black;
   width: 340px;
   border-radius: 1rem;
+  margin-right: 0.5rem;
 
 
 }
@@ -89,4 +90,32 @@ a{
 }
 .icons i:hover{
    opacity: 1;
+}
+.box{
+   background-color: #232323;
+   height: 8rem;
+   border-radius: 0.75rem;
+   margin: 0.75rem 1.75rem;
+   padding: 0.75rem 1rem;
+}
+.box-p2{
+   font-size: 0.85rem;
+   opacity: 0.9;
+}
+.box-p1{
+   font-size: 1rem;
+   font-weight: 500;
+}
+.badge{
+   background-color: #fff;
+   border: none;
+   border-radius: 100px;
+   padding: 0.rem 1rem;
+   font-weight: 700;
+   margin-top: 0.5rem;
+   height: 2rem;
+   width: fit-content;
+}
+.het{
+   height: 9rem;
 }
